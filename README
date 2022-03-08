@@ -1,0 +1,13 @@
+                          Core.Response - Shared Codes
+
+Core.Response deals with LSPDFR and provides additional shared code and tools
+for WithLithum's LSPDFR plugins.
+
+It is devired from RelaperCommons.
+
+Dependencies
+
+    Place 'LSPD First Response.dll' in the 'blobs' folder. You can also carry
+    the XML file.
+
+    All other dependencies are resolved automatically through NuGet.
